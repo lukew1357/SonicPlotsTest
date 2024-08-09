@@ -1,0 +1,15 @@
+Package: SonicPlots
+Title: A Shiny App
+Version: 0.1.0
+Authors@R: person(given = 'Luke', family = 'Williams', email = 'shinyplots@gmail.com', role = c('aut', 'cre'))
+Description: A Data Sonification Shiny app created as a dissertation project for a degree in Master of Science at the University of Exeter. The application was made 'FOR ENHANCING DATA ACCESSIBILITY AND PATTERN RECOGNITION FOR VISUALLY IMPAIRED AND SIGHTED USERS'.
+Depends: R (>= 3.5.0), shiny
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+License: MIT
+NeedsCompilation: no
+Packaged: 2024-08-09 16:20:27 UTC; Luke
+Author: Luke Williams [aut, cre]
+Maintainer: Luke Williams <shinyplots@gmail.com>
+Built: R 4.3.1; ; 2024-08-09 16:20:27 UTC; windows
