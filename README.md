@@ -1,12 +1,3 @@
-```{r, include = FALSE}
-knitr::opts_chunk$set(
-  collapse = TRUE,
-  comment = "#>",
-  fig.path = "man/figures/README-",
-  out.width = "100%"
-)
-```
-
 # SonicPlots
 
 This is a Data Sonification Shiny app created as a dissertation project for a degree in Master of Science at the University of Exeter.
